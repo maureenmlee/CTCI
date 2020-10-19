@@ -1,4 +1,4 @@
-//is unique. implement an algo to determine if a string has all unique characters
+//1.1 is unique. implement an algo to determine if a string has all unique characters
 
 function isUnique(word) {
   if (word === null) {
